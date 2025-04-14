@@ -1,7 +1,7 @@
-🎲 Random Data Analyzer
+Random Data Analyzer
 
 A simple Python project that generates random numerical data using NumPy, computes basic statistics, and visualizes the data with a histogram using Matplotlib.
-🚀 Features
+ Features
 
     Generates random data based on a normal distribution.
 
@@ -15,7 +15,7 @@ A simple Python project that generates random numerical data using NumPy, comput
 
     Plots a histogram to visualize the data.
 
-🧰 Requirements
+ Requirements
 
     Python 3.x
 
